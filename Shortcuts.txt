@@ -1,1 +1,19 @@
-https://github.com/roblevay/tsql
+
+
+Länk till kursfiler: 
+
+Github:    https://github.com/roblevay/tsql
+
+Onedrive:  https://1drv.ms/f/c/fb5c7f8b8caa2fb7/ErKyhoShODxEoc3AiF-jly0B-DE77Ht93_RC_Y7xUhDoZA?e=zHyIp0
+
+Virtuella maskiner:
+
+- https://learnpipe.net/course/dp-080?user=35991   - for Felicia.Blom@billerud.com
+
+- https://learnpipe.net/course/dp-080?user=35992   - for Johan.a.strand@billerud.com
+
+- To log on to the lab VM, use account Student and password Pa55w.rd
+
+Bring your own environment:
+
+https://microsoftlearning.github.io/dp-080-Transact-SQL/
