@@ -1,0 +1,6 @@
+/*
+INNER JOIN			<==>		JOIN
+LEFT OUTER JOIN		<==>		LEFT JOIN
+RIGHT OUTER JOIN	<==>		RIGHT JOIN
+FULL OUTER JOIN		<==>		FULL JOIN	--Alla från BÅDA tabellerna
+*/
